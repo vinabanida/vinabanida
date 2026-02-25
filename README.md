@@ -9,7 +9,7 @@
 
 <h3 align="left">
   :handshake: let's be friends! &nbsp;
-  <a href="https://www.linkedin.com/in/sunyentan" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/davinaho" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sun-Yen Tan" height="25" width="30" />
   </a>
 </h3>
